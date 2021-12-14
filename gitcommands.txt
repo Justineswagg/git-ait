@@ -44,3 +44,8 @@ Maak een branch met naam <naam>
 
 11. git checkout <branch/versie>
 Maak van <branch/versie> de huidige versie om aan te werken
+
+12. git merge <branch>
+Merge de branch <branch> met de huidige branch.
+Je krijgt een nieuwe commit op de huidige branch.
+De gemergede branch blijft bestaan.

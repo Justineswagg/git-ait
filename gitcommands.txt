@@ -21,6 +21,8 @@ Zijn er bestanden die klaarstaan voor commit?
 
 6. git add <bestand>
 Schrijf de huidige versie van <bestand> weg naar de stage, en zet klaar voor commit
+git add .
+Voeg alle unstaged veranderingen in de huidige map toe aan de stage
 
 7. git commit -m "Commit message"
 Maak een nieuwe versie met de huidige inhoud van de stage. 

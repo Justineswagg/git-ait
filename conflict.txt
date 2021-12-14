@@ -1,1 +1,1 @@
-Dit is branch master.
+Dit is branch conflict-branch.

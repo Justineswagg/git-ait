@@ -41,6 +41,10 @@ Zet <versienummer> klaar in de stage.
 
 10. git branch <naam>
 Maak een branch met naam <naam>
+git branch -d <naam>
+Delete de branch <naam>
+git branch
+Print de lijst van alle branches
 
 11. git checkout <branch/versie>
 Maak van <branch/versie> de huidige versie om aan te werken

@@ -35,3 +35,9 @@ Versiegeschiedenis in korte vorm, met aanduiding van branches
 
 9. git checkout <versienummer> .
 Zet <versienummer> klaar in de stage.
+
+10. git branch <naam>
+Maak een branch met naam <naam>
+
+11. git checkout <branch/versie>
+Maak van <branch/versie> de huidige versie om aan te werken

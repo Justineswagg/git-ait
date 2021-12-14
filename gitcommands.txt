@@ -53,3 +53,12 @@ Maak van <branch/versie> de huidige versie om aan te werken
 Merge de branch <branch> met de huidige branch.
 Je krijgt een nieuwe commit op de huidige branch.
 De gemergede branch blijft bestaan.
+
+13. git remote add <remote-naam> <remote-url>
+Koppel lokaal repository met een remote repository
+
+14. git push
+Breng lokale versies over naar remote repository
+
+15. git pull
+Breng remote versies over naar lokaal repository

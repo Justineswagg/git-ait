@@ -1,0 +1,35 @@
+Git commando's
+
+1. git --version (git -v)
+Welke versie van git heb ik op mijn systeem?
+
+2. git help --all
+Lijst met alle commando's van git
+(naar volgende pagina in lijst: spatie;
+stoppen met lijst bekijken: q)
+
+3. git <commando> -help
+Toon de opties voor een bepaald commando
+
+4. git init
+Maak een git repository van de huidige map
+
+5. git status
+Toon de status van het lokale repository.
+Zijn er untracked bestanden?
+Zijn er bestanden die klaarstaan voor commit?
+
+6. git add <bestand>
+Schrijf de huidige versie van <bestand> weg naar de stage, en zet klaar voor commit
+
+7. git commit -m "Commit message"
+Maak een nieuwe versie met de huidige inhoud van de stage. 
+Een goede commit message is belangrijk!
+
+8. git log
+Toon de versiegeschiedenis.
+git log --oneline --graph
+Versiegeschiedenis in korte vorm, met aanduiding van branches
+
+9. git checkout <versienummer> .
+Zet <versienummer> klaar in de stage.

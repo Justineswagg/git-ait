@@ -2,14 +2,17 @@ Git commando's
 
 1. git --version (git -v)
 Welke versie van git heb ik op mijn systeem?
+Which version of git is installed on my system?
 
 2. git help --all
 Lijst met alle commando's van git
 (naar volgende pagina in lijst: spatie;
 stoppen met lijst bekijken: q)
+List all git commands
 
 3. git <commando> -help
 Toon de opties voor een bepaald commando
+Show options for a command
 
 4. git init
 Maak een git repository van de huidige map

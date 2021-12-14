@@ -1,1 +1,2 @@
-Dit is branch master, echt waar.
+Dit is branch master.
+Master is gemerged met conflict-branch.

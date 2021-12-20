@@ -61,6 +61,8 @@ Koppel lokaal repository met een remote repository
 Breng lokale versies over naar remote repository
 git push --set-upstream <remote-naam> <branch>
 Enkel bij eerste push naar remote repository: zorgt voor connectie met remote.
+git push origin --delete <remote-branch>
+Delete de branch <remote-branch> uit de remote repository.
 
 15. git pull
 Breng remote versies over naar lokaal repository

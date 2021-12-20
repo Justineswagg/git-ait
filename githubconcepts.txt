@@ -1,9 +1,12 @@
 Github concepten
 
 1. fork
-Een kopie van een github-repository.
+Een kopie van een github-repository maken in je eigen github-ruimte.
 Je hebt geen rechten op het origineel, maar wel op de kopie.
 
-2. pull request
+2. clone
+Een kopie van een github-repository maken naar je eigen computer.
+
+3. pull request
 Een voorstel voor een aanpassing aan een repository.
 Zo een voorstel kan bediscussieerd worden door de betrokkenen.
